@@ -1,0 +1,18 @@
+img {
+border-radius: 15px;
+}
+
+body {
+  cursor: url('images/cursor.ico'),auto;
+background-color: #1c9cbf;
+  font-family: "Doto", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+    "ROND" 0;
+}
+
+button {
+background: none;
+border-radius: 15px;
+border: auto;
+}
